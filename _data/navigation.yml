@@ -1,23 +1,26 @@
+---
 header:
+- title: james
+  url: james
 - title: Blog
-  url: /blog/
+  url: "/blog/"
 - title: Gallery
-  url: /gallery/
+  url: "/gallery/"
 - title: Plans
-  url: /plans/
+  url: "/plans/"
 - title: Learn
   url: http://learn.siteleaf.com
 - title: Log in
   url: https://manage.siteleaf.com
 footer:
 - title: Features
-  url: /features/
+  url: "/features/"
 - title: Press
   url: http://siteleaf.dropmark.com/326718
 - title: Privacy
-  url: /privacy/
+  url: "/privacy/"
 - title: Terms
-  url: /terms/
+  url: "/terms/"
 - title: Status
   url: http://status.siteleaf.com
 - title: Chat
