@@ -1,10 +1,11 @@
 ---
 title: JAMstack e-commerce with Siteleaf & Snipcart
-date: 2016-10-25 10:00:00 -04:00
+date: '2016-10-25T14:00:00.000+00:00'
 tags:
 - tutorial
 - jekyll
 - github
+- james
 image: "/uploads/jamstack-ecommerce.png"
 description: How to use the JAMstack (JavaScript, APIs, & Markup) to create a static
   site with e-commerce, powered by Siteleaf and Snipcart.
